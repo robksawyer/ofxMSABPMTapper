@@ -33,6 +33,8 @@ namespace msa {
 		
 		// returns number of beats per minute
 		float bpm();
+
+		void bpm(int bpm);
 		
 		// returns beat time since last tap
 		// integer is the beat number
