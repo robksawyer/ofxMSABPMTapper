@@ -1,6 +1,6 @@
 #pragma once
 
-#include "MSATimer.h"
+#include "ofxMSATimer.h"
 
 
 namespace msa {
